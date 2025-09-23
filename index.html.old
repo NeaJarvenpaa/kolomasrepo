@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Hello Pages via Actions</title>
+    </head>
+    <body>
+        <main>
+            <h1>Hello GitHub Pages! (Updated!)</h1>
+            <p>This page is deployed automatically with GitHub Actions.
+                Tähän voisi kirjoittaa jotain hauskaa.
+                mitähän tähän laittais...
+            </p>
+        </main>
+    </body>
+</html>
